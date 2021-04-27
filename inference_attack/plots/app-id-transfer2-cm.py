@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
 [y_test, y_pred] = deserialize("app-id-transfer2-cm.json")
-cm, fig, ax = plot_confusion_matrix(y_test, y_pred, nolabel=False, labelfontsize=22, normalize=True, title="", noTextBox=True)
+cm, fig, ax = plot_confusion_matrix(y_test, y_pred, nolabel=False, labelfontsize=22, normalize=True, title="", noTextBox=True, colorbar=True)
 write_latex_table_precision_recall_f1("app-id-transfer2-cm.tex", y_test, y_pred)
 
 ax.add_patch(patches.Rectangle((8.3,8.3),3.3,3.3,linewidth=2,edgecolor='r',linestyle='--',facecolor='none'))
