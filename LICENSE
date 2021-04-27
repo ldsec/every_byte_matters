@@ -1,0 +1,97 @@
+Academic, Non-Commercial License Agreement
+
+0. Preamble:
+    This license is a legally binding agreement between Ecole Polytechnique Federale de Lausanne (EPFL), Bâtiment CE –
+    3.316, Station 1, CH - 1015 Lausanne, Switzerland (“the Licensor”) and licensee end user (“the Licensee”) setting
+    forth the terms and conditions governing the use and operation of EPFL’s proprietary computer software products (the
+    “Software”). By downloading and installing, copying or otherwise using the Software, and/or otherwise accepting this
+    License, the Licensee agrees to be bound by the terms and conditions of this License. If the Licensee does not agree
+    to or accept the terms of this Agreement, the Licensee may not access or use the Software.
+
+1. License Grant:
+    Licensor hereby grants Licensee a fully-paid up, royalty-free, worldwide, non-assignable and non-transferable,
+    perpetual, revocable, non-exclusive license, including the rights to create but not distribute derivative works, for
+    academic, non-commercial purposes, upon the terms and conditions hereinafter set out. The terms "academic,
+    non-commercial", as used in this Agreement, mean academic or other scholarly or scientific research which (a) is not
+    undertaken for profit, or (b) is not intended to produce works, services, or data for commercial use, or (c) is
+    neither conducted, nor funded, by a person or an entity engaged in the commercial use, application or exploitation
+    of works similar to the Software.
+
+    Licensee may use Software for the purpose of:
+        - Running Software on Licensee’s Website[s] and Server[s];
+        - Allowing 3rd Parties to run Software on Licensee’s Website[s] and Server[s];
+        - Publishing Software’s output to Licensee and 3rd Parties;
+        - Distribute verbatim copies of Software’s output (including compiled binaries);
+        - Modify Software to suit Licensee’s needs and specifications.
+
+    Binary Restricted: Licensee may sublicense Software as a part of a larger work containing more than Software,
+    distributed solely in Object or Binary form under academic, non-commercial purposes, non-sublicensable license. The
+    Licensee shall be solely liable to any damage, defect or loss incurred as a result of any of such sublicense.
+
+2. Improvements:
+    Licensee agrees that it will use the Software, and any modifications, improvements, or derivatives to Software that
+    Licensee may create (collectively, "Improvements") solely for academic, non-commercial purposes and shall not
+    distribute or transfer the Software or any Improvements or integrations of the Software into a larger work, to any
+    person without prior written permission from Licensor.
+
+3. Upgrades, Updates and Fixes:
+    Licensor may provide Licensee, from time to time, with Upgrades, Updates or Fixes, as detailed herein and according
+    to his sole discretion.
+
+    Upgrades:
+        for the purpose of this License, an Upgrade shall be a material amendment in The Software, which contains new
+        features and or major performance improvements and shall be marked as a new version number. For example, an
+        upgrade X shall commence under number X.0.0.
+
+    Updates:
+        for the purpose of this License, an update shall be a minor amendment in The Software, which may contain new
+        features or minor improvements and shall be marked as a new sub-version number. For example, an update X shall
+        commence under number 0.X.0.
+
+    Fixes:
+        for the purpose of this license, a fix shall be a minor amendment in the Software, intended to remove bugs or
+        alter minor features which impair the Software's functionality. A fix shall be marked as a new sub-sub-version
+        number. For example, a fix X shall commence under number 0.0.X.
+
+4. Support:
+    Software is provided under an AS-IS basis and without any support, updates or maintenance. Nothing in this Agreement
+    shall require Licensor to provide Licensee with support to any Upgrades, Updates, Fixes, failures, mis-performance
+    or other defect in the Software.
+
+    Bug Notification:
+        Licensee shall provide Licensor of details regarding any bug, defect or failure in the Software promptly and
+        with no delay from such event; Licensee shall comply with Licensor's request for information regarding bugs,
+        defects or failures and furnish him with information, screenshots and try to reproduce such bugs, defects or
+        failures.
+
+    Feature Request:
+        Licensee may request additional features in Software, provided, however, that (i) Licensee shall waive any claim
+        or right in such feature should feature be developed by Licensor; (ii) Licensee shall be prohibited from
+        developing the feature, or disclose such feature request, or feature, to any 3rd party directly competing with
+        Licensor or any 3rd party which may be, following the development of such feature, in direct competition with
+        Licensor; (iii) Licensee warrants that feature does not infringe any 3rd party patent, trademark, trade-secret
+        or any other intellectual property right; and (iv) Licensee developed, envisioned or created the feature solely
+        by himself.
+
+5. Warranties and Liabilities:
+    Licensor makes no representations or warranties, express or implied, including without limitation any
+    representations or warranties of merchantability or fitness for particular purpose or that the use of the Software
+    will not infringe any patents, copyrights, trademarks or other rights of any third party. Licensor shall not be
+    liable for any direct, indirect or consequential damages with respect to any claim by Licensee or any third party
+    arising from this Agreement or use of the Software. Licensee hereby warrants to hold Licensor harmless and to
+    indemnify Licensor for any lawsuit brought against it in regard to Licensee’s use of the Software.
+
+6. Term & Termination:
+    This License is perpetual but can be terminated by the Licensor in case where Licensee (i) became insolvent or
+    otherwise entered into any liquidation process, (ii) exported the Software to any jurisdiction where Licensor may
+    not enforce his rights under this Agreement (iii) Licensee breach any of this License's terms and conditions and
+    such breach is not cured, immediately upon notification (iv) Licensee otherwise entered into any arrangement which
+    caused Licensor to be unable to enforce his rights under this License.
+
+7. No other rights:
+    This License shall not be construed to confer any rights upon Licensee by implication or otherwise except as
+    specifically set forth herein.
+
+8. This Agreement shall be governed by the material laws of Switzerland and any dispute arising out of this License or
+use of the Software shall be brought before the courts of Lausanne, Switzerland.
+
