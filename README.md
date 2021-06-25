@@ -85,7 +85,7 @@ Step 4: Run one of the following files. The section numbering correspond to the 
 
 Under the hood, each of the above files is organised in the same way:
 
-- Initially, the dataset is parsed and cached. There are two levels of caching: a per-file caching, and a global cache per attack/per file. Everything is cached into a folder `.cache`. Removing the cache folder triggers a deep-rebuild with the per-file caches (this should never be needed, unless the CSV parsing changes). Otherwise, there is a flag `REBUILD=True` to only rebuild the high-level cache file for the current attack. When in doubt, simply remove `.cache`.
+- Initially, the dataset is parsed and cached. There are two levels of caching: a per-file caching (which simply cuts the .csv into [time,size]-events), and a global cache per attack/per file. Everything is cached into a folder `.cache`. Removing the cache folder triggers a deep-rebuild which includes the per-file caches (this should not be needed). Otherwise, there is a flag `REBUILD=True` to only rebuild the high-level cache file for the current attack (e.g., this is useful if the set of features or the cross-validation parameters changed). When in doubt, simply remove `.cache`.
 - Then, each trace is mapped to the appropriate label + features via `build_features_labels_dataset()` 
 - Finally, the scripts runs Random Forest with 10 fold cross validation, and creates plots. Each plot is saved with its data and the git commit of the dataset. Each output "plot" consist of the 5 files `PLOT_NAME.{py,json,tex,png,eps}`. The python script uses the `.json` to replots the `.{tex,png,eps}`.
 
