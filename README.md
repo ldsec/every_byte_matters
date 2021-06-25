@@ -3,11 +3,11 @@
 ![Methodology Teaser](highlight.png)
 _Teaser of the methodology: Traffic-analysis attack on the encrypted traffic of Bluetooth wearable devices._
 
-This repository contains the code and the plots for the inference attack described in the paper **Every Byte Matters: Traffic Analysis of Wearable Devices**.
+This repository contains the code and the plots for the inference attack described in the paper **Every Byte Matters: Traffic Analysis of Wearable Devices** ([link to the paper](every_byte_matters_traffic_analysis_wearable_devices.pdf)).
+
 
 Authors: [Ludovic Barman](https://people.epfl.ch/ludovic.barman), Alexandre Dumur, [Apostolos Pyrgelis](https://people.epfl.ch/apostolos.pyrgelis) and [Jean-Pierre Hubaux](https://people.epfl.ch/jean-pierre.hubaux)
 
-[Link to the paper](every_byte_matters_traffic_analysis_wearable_devices.pdf)
 
 To be presented at [Ubicomp 2021](https://www.ubicomp.org/ubicomp2021/), and published in [IMWUT 2021](https://dl.acm.org/doi/10.1145/3463512).
 
