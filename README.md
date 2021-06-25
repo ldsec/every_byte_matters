@@ -74,7 +74,7 @@ Step 4: Run one of the following files. The section numbering correspond to the 
 - `device_id.py`: §5 device identification
 - `chipset_id.py`: §5 chipset identification
 - `action_id_wearables.py`: §6.1 "wide" experiment on action recognition, all wearable devices
-- `app_id_huaweiwatch.py`: $6.2 "deep" experiment on WearOS, application-opening recognition
+- `app_id_huaweiwatch.py`: §6.2 "deep" experiment on WearOS, application-opening recognition
 - `app_id_transfer.py`: §6.2.2 transfer experiment between different pairs of wearable devices
 - `action_id_diabetesm.py`: §6.2.3 recognizing fine-grained actions within DiabetesM
 - `longrun.py`: §6.2.4 long-term adversary
