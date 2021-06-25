@@ -4,7 +4,8 @@
 _Teaser of the methodology: Traffic-analysis attack on the encrypted traffic of Bluetooth wearable devices._
 
 This repository contains the code and the plots for the inference attack described in the paper **Every Byte Matters: Traffic Analysis of Wearable Devices**.
-Authors: [Ludovic Barman](https://people.epfl.ch/ludovic.barman), Alexandre Dumur, [Apostolos Pyrgelis](https://people.epfl.ch/apostolos.pyrgelis), and [Jean-Pierre Hubaux](https://people.epfl.ch/jean-pierre.hubaux)
+
+Authors: [Ludovic Barman](https://people.epfl.ch/ludovic.barman), Alexandre Dumur, [Apostolos Pyrgelis](https://people.epfl.ch/apostolos.pyrgelis) and [Jean-Pierre Hubaux](https://people.epfl.ch/jean-pierre.hubaux)
 
 [Link to the paper](every_byte_matters_traffic_analysis_wearable_devices.pdf)
 
@@ -21,9 +22,12 @@ We run traffic-analysis attacks by collecting a dataset of Bluetooth communicati
 ## Acknowledgements
 
 This work has been made possible by the help of Friederike Groschupp and Stéphanie Lebrun.
+
 We also wish to thank Daniele Antonioli, Sylvain Chatel, Jiska Classen, Ricard Delgado, and David Lazar for the constructive discussions and feedbacks on the drafts.
+
 We are grateful to the "Centre Suisse d'Electronique et Microtechnique" (CSEM) for providing us with the Ellisys Bluetooth sniffer.
 This work was supported in part by grant 200021\_178978/1 (PrivateLife) of the Swiss National Science Foundation (SNF).
+
 Some illustrations in the paper have been made by the artists freepik, eucalyp and smashicons ([flaticon.com](https://flaticon.com)).
 
 ## How to cite
