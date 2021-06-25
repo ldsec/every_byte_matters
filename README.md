@@ -22,7 +22,6 @@ We run traffic-analysis attacks by collecting a dataset of Bluetooth communicati
 ## Acknowledgements
 
 This work has been made possible by the help of Friederike Groschupp and Stéphanie Lebrun.
-
 We also wish to thank Daniele Antonioli, Sylvain Chatel, Jiska Classen, Ricard Delgado, and David Lazar for the constructive discussions and feedbacks on the drafts.
 
 We are grateful to the "Centre Suisse d'Electronique et Microtechnique" (CSEM) for providing us with the Ellisys Bluetooth sniffer.
@@ -110,4 +109,4 @@ The sources for the figures are in `inference_attack/plots/`
 
 ## Misc
 
-Maintainer of this repo: Ludovic Barman.
+Maintainer of this repository: Ludovic Barman.
