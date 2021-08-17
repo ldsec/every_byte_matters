@@ -9,6 +9,14 @@ Authors: [Ludovic Barman](https://people.epfl.ch/ludovic.barman), Alexandre Dumu
 
 To be presented at [Ubicomp 2021](https://www.ubicomp.org/ubicomp2021/), and published in [IMWUT 2021](https://dl.acm.org/doi/10.1145/3463512).
 
+## Table of Contents
+
+1. Abstract
+2. Videos & Slides
+3. How to Reproduce
+4. Acknowledgements
+5. How to Cite
+
 ## Abstract
 
 Wearable devices such as smartwatches, fitness trackers, and blood-pressure monitors process, store, and communicate sensitive and personal information related to the health, life-style, habits and interests of the wearer. This data is typically synchronized with a companion app running on a smartphone over a Bluetooth (Classic or Low Energy) connection. 
@@ -20,6 +28,11 @@ We run traffic-analysis attacks by collecting a dataset of Bluetooth communicati
 
 ![Teaser of methodology](methodology.png)
 _Teaser of the methodology: Traffic-analysis attack on the encrypted communications of Bluetooth wearable devices._
+
+## Videos Recordings & Slides
+
+1. Ubicomp'21 6min video + slides (to appear soon after the conference)
+2. Ubicomp'21 20min video + slides (to appear soon after the conference)
 
 ## How to Reproduce
 
